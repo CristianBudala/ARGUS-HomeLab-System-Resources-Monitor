@@ -2,7 +2,7 @@
 #include <string>
 #include <iostream>
 #include <chrono>
-#include <Exceptions.h>
+#include "Exceptions.h"
 
 // Generic metric class that forces any subtype to define collect()
 class Metric {
